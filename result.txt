@@ -1,0 +1,10 @@
+Account Information : [OwnerId, Name, ParentId, AccountNumber, Site, Type, Industry, AnnualRevenue, Rating, Phone, Fax, Website, TickerSymbol, Ownership, NumberOfEmployees, Sic]
+
+Address Information : [BillingAddress, ShippingAddress]
+
+Additional Information : [CustomerPriority__c, SLAExpirationDate__c, NumberofLocations__c, Active__c, SLA__c, SLASerialNumber__c, UpsellOpportunity__c]
+
+System Information : [CreatedById, LastModifiedById]
+
+Description Information : [Description]
+
